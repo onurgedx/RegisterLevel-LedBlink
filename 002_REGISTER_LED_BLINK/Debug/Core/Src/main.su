@@ -1,0 +1,8 @@
+../Core/Src/main.c:78:5:main	16	static
+../Core/Src/main.c:126:6:SystemClock_Config	88	static
+../Core/Src/main.c:166:6:Configurations	8	static
+../Core/Src/main.c:173:6:RCC_Config	4	static
+../Core/Src/main.c:198:6:GPIO_Config	4	static
+../Core/Src/main.c:218:6:TurnoffLights	4	static
+../Core/Src/main.c:226:6:TurnonLights	4	static
+../Core/Src/main.c:239:6:Error_Handler	4	static,ignoring_inline_asm
